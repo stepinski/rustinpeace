@@ -1,0 +1,10 @@
+[package]
+name = "linearjob"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+linreg = "0.2.0"
+wasmtime = "9.0.3"

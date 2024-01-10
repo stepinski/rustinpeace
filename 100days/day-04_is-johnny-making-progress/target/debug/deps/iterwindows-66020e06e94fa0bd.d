@@ -1,0 +1,7 @@
+/home/unman/ws/rustinpeace/100days/day-04_is-johnny-making-progress/target/debug/deps/iterwindows-66020e06e94fa0bd.rmeta: /home/unman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iterwindows-0.3.0/src/lib.rs
+
+/home/unman/ws/rustinpeace/100days/day-04_is-johnny-making-progress/target/debug/deps/libiterwindows-66020e06e94fa0bd.rlib: /home/unman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iterwindows-0.3.0/src/lib.rs
+
+/home/unman/ws/rustinpeace/100days/day-04_is-johnny-making-progress/target/debug/deps/iterwindows-66020e06e94fa0bd.d: /home/unman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iterwindows-0.3.0/src/lib.rs
+
+/home/unman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iterwindows-0.3.0/src/lib.rs:
